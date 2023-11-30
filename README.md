@@ -1,5 +1,5 @@
 # GoldilocksImages
- Linux images for Future Elextronics Goldilocks kit
+ Linux images for Future Electronics Goldilocks kit
 
 Mama Bear Re-Programming Mama Bear Board is preprogrammed with latest firmware. In case of software update or in need of reprograming the Mama Bear eMMC, the following steps should be followed:
 
